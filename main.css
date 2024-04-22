@@ -183,3 +183,9 @@ button a{
     text-decoration:none;
     display: block;
 }
+
+@media only screen and (max-width: 360px) {
+  #navbar{
+     font-size: 12px;
+    }
+}
