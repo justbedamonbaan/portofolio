@@ -12,7 +12,7 @@ body{
     display: flex;
     align-items: center;
     border-left: 3px solid black;
-    height: 155px;
+    height: 120px;
     margin-left: 53%;
     padding: 0;
   }
@@ -22,15 +22,15 @@ body{
 #navbar{
     display: flex;
     flex-direction: column;
-    align-items: center;
     height: 100%;
-    font-size: 24px;
+    font-size: 17px;
     background-color: #0f172a;
     list-style-type: none;
     position: fixed;
     top: 0;
     overflow: auto;
-    width: 11%;
+    width: 14%;
+    font-family: 'Conslas', monospace;
     
 }
 
@@ -84,7 +84,7 @@ a:link, a:visited, .item{
     max-width: 900px;
     max-height: 650px;
     background-color: #0f172a;
-    margin-left: 25%;
+    margin-left: 19%;
     padding: 1%;
     border: 3px solid #000000;
 }
@@ -97,8 +97,8 @@ a:link, a:visited, .item{
 }
 
 #screenshots img{
-    max-width: 465px;
-    max-height: 450px;
+    max-width: 360px;
+    max-height: 400px;
     margin-left: 1%;
     border: 3px solid black;
 }
@@ -108,7 +108,7 @@ a:link, a:visited, .item{
 }
 
 img#cs2{
-    max-width: 530px;
+    max-width: 52%;
 }
 
 #project1{
