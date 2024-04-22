@@ -187,5 +187,6 @@ button a{
 @media only screen and (max-width: 360px) {
   #navbar{
      font-size: 12px;
+         width: 17%;
     }
 }
